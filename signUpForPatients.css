@@ -1,0 +1,68 @@
+body{
+  margin:0;
+  padding:0;
+}
+.nav1{
+  margin-left: 400px;
+}
+.nav1-bg{
+  background: rgb(207, 47, 47);
+  height:50px;
+}
+.navBar{
+  height:50px;
+}
+.search-box {
+  margin-left: 00px;
+}
+.input-box{
+  width:15em;
+  height:40px;
+  margin-left:50px;
+}
+.login-btn {
+  width:150px;
+}
+.search-icon{
+  padding-left: 10px;
+  font-size: 23px;
+}
+.down-arrow{
+  margin-left: 150px;
+}
+.down-arrow button{
+  margin-left: 15px;
+  width: 100px;
+}
+.down{
+  margin-left: -20px;
+}
+  /* .left-img{
+    width: 290px;
+  
+  } */
+  .left-up-img{
+    height: 218px;
+  }
+  .all-card{
+    padding: 0px
+  }
+  hr{
+    margin: 0px;
+  }
+
+  .footer-section{
+    height:300px;
+    padding-top: 100px
+  }
+  .chat-btn{
+    width:200px;
+    height:40px;
+  }
+  .search-btn a{
+    text-decoration: none;
+    color:black;
+  }
+  .ingsizing img{
+      width:100%;
+  }
